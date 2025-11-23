@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+*.AppImage
+*.exe
+*.ico
+.DS_Store

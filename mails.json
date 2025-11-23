@@ -1,0 +1,114 @@
+[
+  {
+    "id": "mail_1763828457607_644ehuhij",
+    "timestamp": "2025-11-22T16:20:57.607Z",
+    "sender": "Unknown",
+    "subject": "No Subject",
+    "content": "",
+    "attachments": [
+      {
+        "amount": 1,
+        "item": "T6_ARMOR_LEATHER_SET2@1",
+        "price": 959960000,
+        "single": 959960000,
+        "blackMarket": true
+      }
+    ]
+  },
+  {
+    "id": "mail_1763828459870_6jv767rw2",
+    "timestamp": "2025-11-22T16:20:59.870Z",
+    "sender": "Unknown",
+    "subject": "No Subject",
+    "content": "",
+    "attachments": [
+      {
+        "amount": 1,
+        "item": "T6_HEAD_PLATE_UNDEAD@1",
+        "price": 689980000,
+        "single": 689980000,
+        "blackMarket": true
+      }
+    ]
+  },
+  {
+    "id": "mail_1763828461162_3woc94yx6",
+    "timestamp": "2025-11-22T16:21:01.162Z",
+    "sender": "Unknown",
+    "subject": "No Subject",
+    "content": "",
+    "attachments": [
+      {
+        "amount": 1,
+        "item": "T4_BAG_INSIGHT@1",
+        "price": 368550000,
+        "single": 368550000,
+        "blackMarket": true
+      }
+    ]
+  },
+  {
+    "id": "mail_1763828462424_zo04mdgst",
+    "timestamp": "2025-11-22T16:21:02.424Z",
+    "sender": "Unknown",
+    "subject": "No Subject",
+    "content": "",
+    "attachments": [
+      {
+        "amount": 1,
+        "item": "T7_BAG",
+        "price": 1389580000,
+        "single": 1389580000,
+        "blackMarket": true
+      }
+    ]
+  },
+  {
+    "id": "mail_1763828463862_y94awiae2",
+    "timestamp": "2025-11-22T16:21:03.862Z",
+    "sender": "Unknown",
+    "subject": "No Subject",
+    "content": "",
+    "attachments": [
+      {
+        "amount": 1,
+        "item": "T5_HEAD_PLATE_SET3",
+        "price": 63050000,
+        "single": 63050000,
+        "blackMarket": true
+      }
+    ]
+  },
+  {
+    "id": "mail_1763828465646_pbsnjkcfm",
+    "timestamp": "2025-11-22T16:21:05.646Z",
+    "sender": "Unknown",
+    "subject": "No Subject",
+    "content": "",
+    "attachments": [
+      {
+        "amount": 4,
+        "item": "T6_ARMOR_PLATE_SET2",
+        "price": 1476680000,
+        "single": 369170000,
+        "blackMarket": true
+      }
+    ]
+  },
+  {
+    "id": "mail_1763828467179_p7n94fhay",
+    "timestamp": "2025-11-22T16:21:07.179Z",
+    "sender": "Unknown",
+    "subject": "No Subject",
+    "content": "",
+    "attachments": [
+      {
+        "amount": 1,
+        "item": "T7_CAPE",
+        "price": 649830000,
+        "single": 649830000,
+        "blackMarket": true
+      }
+    ]
+  }
+]
